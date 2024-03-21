@@ -1,0 +1,3 @@
+[submodule "the-lab"]
+	path = the-lab
+	url = git@github.com:thearchitect/the-lab.git

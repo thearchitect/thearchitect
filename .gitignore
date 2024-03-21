@@ -1,0 +1,7 @@
+.idea
+*.iml
+venv
+.venv
+
+/dropzone.md
+/references
